@@ -57,7 +57,7 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 
 ## Boardgames
 
-All boardgames fully translated and implemented as Tabletop Simulator mods.
+All boardgames are fully translated and implemented as Tabletop Simulator mods.
 
 ### **New Angeles** 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1581968265
