@@ -10,50 +10,35 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 
 ## Roleplaying Games
 
-### Blades in the Dark 
+### Blades in the Dark ![status](https://img.shields.io/badge/status-completed-green.svg) 
 **Web Rules:** https://phenomen.github.io/bladesinthedark/#/index
 
 **Playbooks:** https://bitly.com/blades-ru
 
 **Repository:** https://github.com/Phenomen/bladesinthedark
 
-**Status:** completed
-
-### City of Mist
+### City of Mist ![status](https://img.shields.io/badge/status-completed-green.svg) 
 **Playbooks and Core Rules:** https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
 
-**Status:** completed
-
-### Vagabonds of Dyfed
+### Vagabonds of Dyfed ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
 **Web Rules:** https://phenomen.github.io/vagabondsofdyfed/#/index
 
 **Repository:** https://github.com/Phenomen/vagabondsofdyfed
 
-**Status:** in-progress | 70%
-
-### The Quiet Year
-
+### The Quiet Year ![status](https://img.shields.io/badge/status-completed-green.svg) 
 **Rulebook:** https://github.com/Phenomen/the-quiet-year
 
-### Legacy of Dragonholt
+### Legacy of Dragonholt ![status](https://img.shields.io/badge/status-completed-green.svg)
 **Rulebooks:** https://www.dropbox.com/sh/ti6ayz781ou3m84/AACgCCLudnswHQ2FiecpOcK5a?dl=0
 
-**Status:** completed
-
-### Ironsworn
+### Ironsworn ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
 **Sheets and Handouts:** https://github.com/Phenomen/ironsworn
 
-**Status:** in-progress | 10%
-
-### Masks 
+### Masks ![status](https://img.shields.io/badge/status-completed-green.svg) 
 **Playbooks and Core Rules:** https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0kYWDqkf-
 
-**Status:** completed
-
-### The Lone Wolf Adventure Game
+### The Lone Wolf Adventure Game ![status](https://img.shields.io/badge/status-completed-green.svg) 
 **Character Sheet:** https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
-
-**Status:** completed
 
 ## Boardgames
 
