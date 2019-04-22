@@ -35,7 +35,7 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 **Sheets and Handouts:** https://github.com/Phenomen/ironsworn
 
 ### Masks ![status](https://img.shields.io/badge/status-completed-green.svg) 
-**Playbooks and Core Rules:** https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0kYWDqkf-
+**Playbooks and Moves:** https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0kYWDqkf-
 
 ### The Lone Wolf Adventure Game ![status](https://img.shields.io/badge/status-completed-green.svg) 
 **Character Sheet:** https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
