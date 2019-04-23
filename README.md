@@ -11,77 +11,77 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 ## Roleplaying Games
 
 ### Blades in the Dark ![status](https://img.shields.io/badge/status-completed-green.svg) 
-**Web Rules:** https://phenomen.github.io/bladesinthedark/#/index
+Web Rules: https://phenomen.github.io/bladesinthedark/#/index
 
-**Playbooks:** https://bitly.com/blades-ru
+Playbooks: https://bitly.com/blades-ru
 
-**Repository:** https://github.com/Phenomen/bladesinthedark
+Repository: https://github.com/Phenomen/bladesinthedark
 
 ### City of Mist ![status](https://img.shields.io/badge/status-completed-green.svg) 
-**Playbooks and Core Rules:** https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
+Playbooks and Core Rules: https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
 
 ### Vagabonds of Dyfed ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
-**Web Rules:** https://phenomen.github.io/vagabondsofdyfed/#/index
+Web Rules: https://phenomen.github.io/vagabondsofdyfed/#/index
 
-**Repository:** https://github.com/Phenomen/vagabondsofdyfed
+Repository: https://github.com/Phenomen/vagabondsofdyfed
 
 ### The Quiet Year ![status](https://img.shields.io/badge/status-completed-green.svg) 
-**Rulebook:** https://github.com/Phenomen/the-quiet-year
+Rulebook: https://github.com/Phenomen/the-quiet-year
 
 ### Legacy of Dragonholt ![status](https://img.shields.io/badge/status-completed-green.svg)
-**Rulebooks:** https://www.dropbox.com/sh/ti6ayz781ou3m84/AACgCCLudnswHQ2FiecpOcK5a?dl=0
+Rulebooks: https://www.dropbox.com/sh/ti6ayz781ou3m84/AACgCCLudnswHQ2FiecpOcK5a?dl=0
 
 ### Ironsworn ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
-**Sheets and Handouts:** https://github.com/Phenomen/ironsworn
+Sheets and Handouts: https://github.com/Phenomen/ironsworn
 
 ### Masks ![status](https://img.shields.io/badge/status-completed-green.svg) 
-**Playbooks and Moves:** https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0kYWDqkf-
+Playbooks and Moves: https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0kYWDqkf-
 
 ### The Lone Wolf Adventure Game ![status](https://img.shields.io/badge/status-completed-green.svg) 
-**Character Sheet:** https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
+Character Sheet: https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
 
 ## Boardgames
 
 All boardgames are fully translated and implemented as Tabletop Simulator mods.
 
-### **New Angeles** 
+### New Angeles 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1581968265
 
-### **Santorini** 
+### Santorini 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1584324184
 
-### **Rising Sun**
+### Rising Sun
 https://steamcommunity.com/sharedfiles/filedetails/?id=1348302244
 
-### **Scythe**
+### Scythe
 https://steamcommunity.com/sharedfiles/filedetails/?id=1335583260
 
-### **Android: Netrunner**
+### Android: Netrunner
 https://steamcommunity.com/sharedfiles/filedetails/?id=1415929331
 
-### **Dresden Files** 
+### Dresden Files 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1554251419
 
-### **Lockup** 
+### Lockup 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1530343650
 
-### **Mad Love** 
+### Mad Love 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1459933317
 
-### **Who Goes There?**
+### Who Goes There?
 https://steamcommunity.com/sharedfiles/filedetails/?id=1432437884
 
-### **Brass: Birmingham** 
+### Brass: Birmingham 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1458606028
 
-### **Siege Storm**
+### Siege Storm
 https://steamcommunity.com/sharedfiles/filedetails/?id=1455696852
 
-### **Stuffed**
+### Stuffed
 https://steamcommunity.com/sharedfiles/filedetails/?id=1440928602
 
-### **T.I.M.E Stories**
+### T.I.M.E Stories
 https://steamcommunity.com/sharedfiles/filedetails/?id=1416988911
 
-### **Azul**
+### Azul
 https://steamcommunity.com/sharedfiles/filedetails/?id=1368288600
