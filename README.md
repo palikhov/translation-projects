@@ -6,7 +6,7 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 
 **Email:** phenomen@pm.me
 
-**Discord:** Phenomen#8391
+**Discord:** Phenomen#1337
 
 ## Roleplaying Games
 
