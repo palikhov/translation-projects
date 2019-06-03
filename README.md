@@ -8,9 +8,10 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 
 **Discord:** Phenomen#1337
 
-## Roleplaying Games
+# Roleplaying Games
 
-### Blades in the Dark ![status](https://img.shields.io/badge/status-completed-green.svg) 
+### Blades in the Dark 
+![status](https://img.shields.io/badge/status-completed-green.svg) 
 Web Rules: https://phenomen.github.io/bladesinthedark/#/index
 
 Playbooks: https://bitly.com/blades-ru
@@ -43,7 +44,7 @@ Playbooks and Moves: https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0k
 ### The Lone Wolf Adventure Game ![status](https://img.shields.io/badge/status-completed-green.svg) 
 Character Sheet: https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
 
-## Boardgames
+# Boardgames
 
 All boardgames are fully translated and implemented as Tabletop Simulator mods.
 
