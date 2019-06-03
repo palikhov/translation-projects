@@ -12,36 +12,53 @@ Do you want your game to be translated into Russian? Feel free to contact me! My
 
 ### Blades in the Dark 
 ![status](https://img.shields.io/badge/status-completed-green.svg) 
+
 Web Rules: https://phenomen.github.io/bladesinthedark/#/index
 
 Playbooks: https://bitly.com/blades-ru
 
 Repository: https://github.com/Phenomen/bladesinthedark
 
-### City of Mist ![status](https://img.shields.io/badge/status-completed-green.svg) 
+### City of Mist
+![status](https://img.shields.io/badge/status-completed-green.svg) 
+
 Playbooks and Core Rules: https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
 
-### Knave ![status](https://img.shields.io/badge/status-completed-green.svg)
+### Knave
+![status](https://img.shields.io/badge/status-completed-green.svg)
+
 Rules:  https://github.com/Phenomen/knave-ru
 
-### Vagabonds of Dyfed ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+### Vagabonds of Dyfed
+![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+
 Web Rules: https://phenomen.github.io/vagabondsofdyfed/#/index
 
 Repository: https://github.com/Phenomen/vagabondsofdyfed
 
-### The Quiet Year ![status](https://img.shields.io/badge/status-completed-green.svg) 
+### The Quiet Year
+![status](https://img.shields.io/badge/status-completed-green.svg) 
+
 Rulebook: https://github.com/Phenomen/the-quiet-year
 
-### Legacy of Dragonholt ![status](https://img.shields.io/badge/status-completed-green.svg)
+### Legacy of Dragonholt
+![status](https://img.shields.io/badge/status-completed-green.svg)
+
 Rulebooks: https://www.dropbox.com/sh/ti6ayz781ou3m84/AACgCCLudnswHQ2FiecpOcK5a?dl=0
 
-### Ironsworn ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+### Ironsworn
+![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+
 Sheets and Handouts: https://github.com/Phenomen/ironsworn
 
-### Masks ![status](https://img.shields.io/badge/status-completed-green.svg) 
+### Masks
+![status](https://img.shields.io/badge/status-completed-green.svg) 
+
 Playbooks and Moves: https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0kYWDqkf-
 
-### The Lone Wolf Adventure Game ![status](https://img.shields.io/badge/status-completed-green.svg) 
+### The Lone Wolf Adventure Game
+![status](https://img.shields.io/badge/status-completed-green.svg) 
+
 Character Sheet: https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
 
 # Boardgames
