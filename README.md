@@ -20,6 +20,9 @@ Repository: https://github.com/Phenomen/bladesinthedark
 ### City of Mist ![status](https://img.shields.io/badge/status-completed-green.svg) 
 Playbooks and Core Rules: https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
 
+### Knave ![status](https://img.shields.io/badge/status-completed-green.svg)
+Rules:  https://github.com/Phenomen/knave-ru
+
 ### Vagabonds of Dyfed ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
 Web Rules: https://phenomen.github.io/vagabondsofdyfed/#/index
 
