@@ -1,9 +1,6 @@
 # Russian Translation Projects
 List of my active and completed Russian translations of boardgames and tabletop roleplaying games.
 
-## Contact Me
-Do you want your game to be translated into Russian? Feel free to contact me! My service is completely free of charge. My goal is to promote and develop boardgames and roleplaying culture in Russian-speaking countries and help people to get into this hobby without English language requirement.
-
 **Email:** phenomen@pm.me
 
 **Discord:** Phenomen#1337
@@ -23,6 +20,11 @@ Repository: https://github.com/Phenomen/bladesinthedark
 ![status](https://img.shields.io/badge/status-completed-green.svg) 
 
 Playbooks and Core Rules: https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
+
+### Forbidden Lands
+![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+
+Player's Handbook: http://bit.ly/forbidden-lands-ru
 
 ### Knave
 ![status](https://img.shields.io/badge/status-completed-green.svg)
