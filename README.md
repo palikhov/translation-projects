@@ -16,27 +16,34 @@ Playbooks: https://bitly.com/blades-ru
 
 Repository: https://github.com/Phenomen/bladesinthedark
 
+### Old-School Essentials
+![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+
+Web Rules: https://ose.phenomen.now.sh/
+
+Repository: https://github.com/Phenomen/ose
+
 ### City of Mist
 ![status](https://img.shields.io/badge/status-completed-green.svg) 
 
 Playbooks and Core Rules: https://drive.google.com/open?id=184Z05037obaEHoA2jBCs-oq-miHDyqfn
 
-### Forbidden Lands
-![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
+### Dungeons & Dragons 5
+![status](https://img.shields.io/badge/status-completed-green.svg) 
 
-Player's Handbook: http://bit.ly/forbidden-lands-ru
+D&D5 Reference Guide: https://phenomen.github.io/dnd5ru/
 
 ### Knave
 ![status](https://img.shields.io/badge/status-completed-green.svg)
 
 Rules:  https://github.com/Phenomen/knave-ru
 
-### Vagabonds of Dyfed
+### Delta Green RPG
 ![status](https://img.shields.io/badge/status-in--progress-orange.svg) 
 
-Web Rules: https://phenomen.github.io/vagabondsofdyfed/#/index
+Operation Handouts and Quick Rules: https://github.com/Phenomen/delta-green-ru
 
-Repository: https://github.com/Phenomen/vagabondsofdyfed
+Interactive Character Sheet: https://docs.google.com/spreadsheets/d/1gqCCUBTXGqKK25TV6RuanmqTNbslxlwur6bQu_lZBu0/edit?usp=sharing
 
 ### The Quiet Year
 ![status](https://img.shields.io/badge/status-completed-green.svg) 
@@ -61,7 +68,15 @@ Playbooks and Moves: https://drive.google.com/open?id=15MOAoWZOpAL5-CHX4NHxJGL0k
 ### The Lone Wolf Adventure Game
 ![status](https://img.shields.io/badge/status-completed-green.svg) 
 
-Character Sheet: https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
+Interactive Character Sheet: https://docs.google.com/spreadsheets/d/1tLYBPObREUMwsUPowmGRGS3FnBdsB9MI4rDoTzXnFu4/edit?usp=sharing
+
+### Forbidden Lands
+![status](https://img.shields.io/badge/status-canceled-red.svg) 
+
+Canceled. Official localization by Studio 101 is in the works.
+
+Player's Handbook: http://bit.ly/forbidden-lands-ru
+
 
 # Boardgames
 
